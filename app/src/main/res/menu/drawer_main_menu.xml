@@ -7,15 +7,15 @@
         <item android:title="@string/fish"
             android:id="@+id/id_fish"
             android:icon="@drawable/ic_fish"/>
-        <item android:title="@string/fish"
+        <item android:title="@string/na"
             android:id="@+id/id_na"
-            android:icon="@drawable/ic_fish"/>
-        <item android:title="@string/fish"
+            android:icon="@drawable/ic_two"/>
+        <item android:title="@string/sna"
             android:id="@+id/id_sna"
-            android:icon="@drawable/ic_fish"/>
-        <item android:title="@string/fish"
+            android:icon="@drawable/ic_thre"/>
+        <item android:title="@string/history"
             android:id="@+id/id_history"
-            android:icon="@drawable/ic_fish"/>
+            android:icon="@drawable/ic_four"/>
     </group>
 
 </menu>
